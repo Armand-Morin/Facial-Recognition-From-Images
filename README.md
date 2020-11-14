@@ -11,9 +11,16 @@
 
 - Finally you place the image you want the code to predict in the test_images folder. Then You launch the detector.py code and the image to test will appear with the name of the person.
 
-# Results
+## Results
 
-[Macron:Trump](https://github.com/Armand-Morin/Facial-Recognition-From-Images/blob/main/Macron:Trump.png)
+# Macron & Trump
+
+<img width="965" alt="Macron:Trump" src="https://user-images.githubusercontent.com/72650161/99145877-b8979080-2672-11eb-9503-335b804f6ff9.png">
+
+# Macron & Hollande
+
+<img width="841" alt="Macron:Hollande" src="https://user-images.githubusercontent.com/72650161/99145875-b7666380-2672-11eb-9c43-b2a325270a92.png">
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

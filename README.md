@@ -13,4 +13,4 @@
 
 # Results
 
-Macron/Trump.png
+![alt text] (https://github.com/Armand-Morin/Facial-Recognition-From-Images/blob/main/Macron:Trump.png)
